@@ -1,4 +1,4 @@
-# 🏁 Formula One API
+# 🏁 Formula 1 API
 
 Uma API simples desenvolvida com [Fastify](https://fastify.dev/) e escrita em TypeScript que fornece informações sobre as equipes e os principais pilotos da temporada 2025 da Fórmula 1.
 
